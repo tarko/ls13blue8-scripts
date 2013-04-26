@@ -21,7 +21,7 @@ This is similar to previous but for monitoring all DNS lookups. I didn't have en
 
 ### exec-notify.c
 
-I created this statically linked binary (for maximum compatibility) for easy process execution logging to syslog (which me immediately sent to trusted central collector)
+I created this statically linked binary (for maximum compatibility) for easy process execution logging to syslog (which we immediately sent to trusted central collector)
 
 ### network/arpmac-to-ipsg-bindings.rb
 
